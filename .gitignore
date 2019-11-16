@@ -1,1 +1,5 @@
 planet_berlin.osm.sqlite
+
+.DS_Store
+.vscode/
+venv/
