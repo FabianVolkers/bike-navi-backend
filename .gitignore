@@ -1,5 +1,8 @@
-planet_berlin.osm.sqlite
+data/
 
 .DS_Store
 .vscode/
 venv/
+
+secrets.json
+db.sqlite3
